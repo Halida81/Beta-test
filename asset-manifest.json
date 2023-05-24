@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Beta-test/static/css/main.d58a9dd0.css",
+    "main.js": "/Beta-test/static/js/main.ec9ae8fd.js",
+    "index.html": "/Beta-test/index.html",
+    "main.d58a9dd0.css.map": "/Beta-test/static/css/main.d58a9dd0.css.map",
+    "main.ec9ae8fd.js.map": "/Beta-test/static/js/main.ec9ae8fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58a9dd0.css",
+    "static/js/main.ec9ae8fd.js"
+  ]
+}
